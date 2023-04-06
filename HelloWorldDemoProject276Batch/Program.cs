@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to HelloWorld Program!");
+            Console.WriteLine("Push the code on github");
         }
     }
 }
